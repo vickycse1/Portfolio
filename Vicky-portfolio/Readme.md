@@ -1,9 +1,5 @@
-# vicky Portfolio 🔥
+# Vicky-Portfolio 
 > 
-
-
-
-
 
 ## Features 
  Fully Responsive\
